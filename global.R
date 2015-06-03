@@ -1,1 +1,1 @@
-library(d3heatmap)
+library(iHeatmap)
